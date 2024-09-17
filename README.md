@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ML
-- 📫 How to reach me mail on amansingh233227@gmail.com
+- 📫 How to reach me mail on amansinghcse01@gmail.com
 - 😄 Pronouns: He
 
 <!---
