@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Aman Singh</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Hi,+I'm+Aman+Singh+👋;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" align="center" />
+</h1>
 <h3 align="center">Full Stack Developer | React, Node.js, MongoDB, Python & SQL</h3>
 
 - 🔭 I’m currently working on **Ecomify Backend & Library Management Systems**
